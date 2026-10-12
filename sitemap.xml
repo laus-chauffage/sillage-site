@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url><loc>https://sillage.aero/fr</loc><xhtml:link rel="alternate" hreflang="fr" href="https://sillage.aero/fr"/><xhtml:link rel="alternate" hreflang="en" href="https://sillage.aero/en"/><changefreq>monthly</changefreq><priority>1.0</priority></url>
+<url><loc>https://sillage.aero/en</loc><xhtml:link rel="alternate" hreflang="fr" href="https://sillage.aero/fr"/><xhtml:link rel="alternate" hreflang="en" href="https://sillage.aero/en"/><changefreq>monthly</changefreq><priority>1.0</priority></url>
+<url><loc>https://sillage.aero/fr/faq</loc><xhtml:link rel="alternate" hreflang="fr" href="https://sillage.aero/fr/faq"/><xhtml:link rel="alternate" hreflang="en" href="https://sillage.aero/en/faq"/><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://sillage.aero/en/faq</loc><xhtml:link rel="alternate" hreflang="fr" href="https://sillage.aero/fr/faq"/><xhtml:link rel="alternate" hreflang="en" href="https://sillage.aero/en/faq"/><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://sillage.aero/fr/conditions</loc><xhtml:link rel="alternate" hreflang="fr" href="https://sillage.aero/fr/conditions"/><xhtml:link rel="alternate" hreflang="en" href="https://sillage.aero/en/conditions"/><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://sillage.aero/en/conditions</loc><xhtml:link rel="alternate" hreflang="fr" href="https://sillage.aero/fr/conditions"/><xhtml:link rel="alternate" hreflang="en" href="https://sillage.aero/en/conditions"/><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://sillage.aero/fr/confidentialite</loc><xhtml:link rel="alternate" hreflang="fr" href="https://sillage.aero/fr/confidentialite"/><xhtml:link rel="alternate" hreflang="en" href="https://sillage.aero/en/confidentialite"/><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://sillage.aero/en/confidentialite</loc><xhtml:link rel="alternate" hreflang="fr" href="https://sillage.aero/fr/confidentialite"/><xhtml:link rel="alternate" hreflang="en" href="https://sillage.aero/en/confidentialite"/><changefreq>monthly</changefreq><priority>0.5</priority></url>
+</urlset>
